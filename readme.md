@@ -1,3 +1,1 @@
-new text inside readme edited on w10
-new line added thru wsl
-
+Test repo for getting used to git

@@ -1,2 +1,4 @@
-new md added from wls
-and second line added in next commit
+rewritten
+
+added two strings
+and another one just ot be sure
